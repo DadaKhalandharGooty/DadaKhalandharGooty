@@ -9,4 +9,4 @@ Thanks for reaching here. I am still building my GitHub home. Mean while you can
   ---
  
  <p>
- <h3 align="center"><i>Belive in your self. YOU ARE AWSOME.</i></h3>
+ <h3 align="center"><i>Belive in yourself. YOU ARE AWSOME.</i></h3>
