@@ -9,5 +9,10 @@ Thanks for reaching here. I am still building my GitHub home. Mean while you can
   ---
  
  <p>
-
- # Belive in your self. YOU ARE AWSOME.
+```
+italic {
+  font-style: italic;
+  font-size: large;
+}
+```
+ <p class="italic">Belive in your self. YOU ARE AWSOME.</p>
