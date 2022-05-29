@@ -9,10 +9,4 @@ Thanks for reaching here. I am still building my GitHub home. Mean while you can
   ---
  
  <p>
-```
-italic {
-  font-style: italic;
-  font-size: large;
-}
-```
- <p class="italic">Belive in your self. YOU ARE AWSOME.</p>
+ <h3 align="center"><i>Belive in your self. YOU ARE AWSOME.</i></h3>
