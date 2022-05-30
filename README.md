@@ -6,10 +6,10 @@ Thanks for reaching here. I am still building my GitHub home. Stay in touch.
 
   ---
   About Me
-    - [LinkedIn](https://www.linkedin.com/in/dada-khalandhar-3551445b/)
-    - [HackerRank](https://www.hackerrank.com/dadakhalandhar)
-    - [HackerEarth](https://www.hackerearth.com/@dadakhalandhar)
-    - [CareerCup](https://www.careercup.com/user?id=15430890)
+  - [LinkedIn](https://www.linkedin.com/in/dada-khalandhar-3551445b/)
+  - [HackerRank](https://www.hackerrank.com/dadakhalandhar)
+  - [HackerEarth](https://www.hackerearth.com/@dadakhalandhar)
+  - [CareerCup](https://www.careercup.com/user?id=15430890)
   
  ---
  
