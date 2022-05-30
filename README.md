@@ -1,11 +1,11 @@
 # [![Dada Khalandhar](https://github.com/DadaKhalandharGooty/DadaKhalandharGooty/blob/main/main/icon/Header.jpg)](https://www.linkedin.com/in/dada-khalandhar-3551445b/)
 
-</p>
+<p>
 
 Hey there 👋,
 
 Thanks for reaching here. I am still building my GitHub home. Stay in touch.
-
+</p>
   ---
 <p>
   About Me</br>
