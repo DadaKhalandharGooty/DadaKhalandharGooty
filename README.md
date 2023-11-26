@@ -1,4 +1,4 @@
-# [![Dada Khalandhar](./dada-header-image.png)](https://www.linkedin.com/in/dada-khalandhar-3551445b/)
+# [![Dada Khalandhar](https://github.com/DadaKhalandharGooty/DadaKhalandharGooty/blob/3430dc95de3b5b986204ff4ae36856226c2fff1e/dada-header-image.png)](https://www.linkedin.com/in/dada-khalandhar-3551445b/)
 
 👋 Hello there! I'm **Dada Khalandhar Gooty**, a Software Engineer with a passion for building robust and innovative solutions. With a solid foundation in mathematics and a knack for problem-solving, I thrive on turning complex challenges into elegant code. My technical strength lies in my way of investigation, and my journey has been marked by a calm and cool approach to software development.
 
